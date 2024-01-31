@@ -1,0 +1,15 @@
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\bin\Debug\net7.0\PalindromeErkennung.exe
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\bin\Debug\net7.0\PalindromeErkennung.deps.json
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\bin\Debug\net7.0\PalindromeErkennung.runtimeconfig.json
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\bin\Debug\net7.0\PalindromeErkennung.dll
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\bin\Debug\net7.0\PalindromeErkennung.pdb
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\PalindromeErkennung.csproj.AssemblyReference.cache
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\PalindromeErkennung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\PalindromeErkennung.AssemblyInfoInputs.cache
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\PalindromeErkennung.AssemblyInfo.cs
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\PalindromeErkennung.csproj.CoreCompileInputs.cache
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\PalindromeErkennung.dll
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\refint\PalindromeErkennung.dll
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\PalindromeErkennung.pdb
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\PalindromeErkennung.genruntimeconfig.cache
+C:\Users\panze\PalindromeErkennung\PalindromeErkennung\obj\Debug\net7.0\ref\PalindromeErkennung.dll
